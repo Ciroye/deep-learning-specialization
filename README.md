@@ -1,2 +1,2 @@
-# deep-learning-specialization
-This repository contain all the code for the deep learning specialization 
+# Deep learning specialization
+This repository contain all the code and certificates of the deep learning specialization 
